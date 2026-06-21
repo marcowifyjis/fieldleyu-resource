@@ -1,2 +1,14 @@
 # fieldleyu-resource
-HTML page archive and documentation
+
+页面归档与发布记录
+
+这个目录用于承载静态页面文件，内容会随发布任务持续补充。
+
+## 页面保存
+
+- HTML 文件按任务生成
+- README 用于记录仓库用途
+
+## 归档说明
+
+本仓库用于保存发布产物，不额外承诺页面内容长期不变。
